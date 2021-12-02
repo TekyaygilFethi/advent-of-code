@@ -1,2 +1,2 @@
 # Advent of Code
-This repository contains solution for advent of code event
+This repository contains solutions for advent of code event
